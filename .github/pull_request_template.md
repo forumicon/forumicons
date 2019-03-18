@@ -8,3 +8,6 @@ Reviewer Checklist
 - [ ] Icon naming has been properly deconflicted with repo
 - [ ] Icon design file is properly constructed to the Guidlines
 - [ ] Designer is Verified and added to Designer Team
+- [ ] Iconify PR is created
+- [ ] Iconify PR is Merged
+- [ ] Iconify Label is added
