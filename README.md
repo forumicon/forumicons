@@ -20,7 +20,32 @@ Using the icons could not be simpiler. All of our icons are added to the iconify
 6. Check the fourmicon site for the name of your icon/s and follow the guide to adding to your project via Iconify.
 
 ### What is the benifit over all the other icon libraries?
-There are alot of free icons/libraries out there to use. 
+There are alot of free icons/libraries out there to use.
+
+##### What the difference between this and https://materialdesignicons.com/
+###### Firstly we have different types of icons (icons, emojis, imagesets, forum-icons, topic-icons, rank-imgs, etc...) they do not. Secondly they have strict policy on duplication of usecases. Meaning hat there are only allowed 1 or 2 versions of each icon for example 
+
+```css
+home-solid
+home-outline
+```
+
+###### We allow infinite variations on an icon. You can submit enitre sets of icons even. So we could have:
+
+```javascript
+iconName-iconTheme-iconSetName
+```
+
+###### For eample:
+
+```css
+home-color-spify
+home-solid-spify
+home-outline-spify
+home-twotone-spify
+home-solid-exl
+home-outline-exl
+``` 
 
 ##### Each has a different license and attribution requirments. 
 ###### We have none!
