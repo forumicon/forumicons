@@ -1,9 +1,9 @@
-# ![fourmicon](https://avatars0.githubusercontent.com/u/48692288?s=48&v=4) forumicon
+# ![Fourmicon](https://avatars0.githubusercontent.com/u/48692288?s=48&v=4) Forumicon
 Free to use community developed vector Forum icon/imgs ibrary
 
 ## WIP - Comming Soon
 
-### What is **forumicon**
+### What is **Forumicon**
 fourmicon is a community built and maintained repository of completly free to use vector graphics to use for your forum/site/app/or project. There is no need to provide attribution. Instead we only ask that is you really like an asset or series that you click the donation link on to that icon/artists page on the wesite. Its completely not mandatory but helps to promote quality design submissions.
 
 Furthermore you can acctually create an Icon/img request if you have a specific design that you need that is not available. The community will do its best to provide a quality design to meet your needs. Once approved and merged into the repository it will immediately be available via the iconify service which is covered later in more detail. We only ask again that to consider providing a donation for the work on the icon page. This is provided directly to the artist(85%)/reviewer(10%)/organization(5%).
