@@ -5,7 +5,7 @@
 - [1.0](#10) All icons will be built to an 8px grid.
 - [2.0](#20) Each `iconType` will have a size requirment For Exp: `icon: 24px`
 	* This may be two small for more intricate and advanced icons. Check the Readme for each iocnType folder for specific guidlines for that type.
-	* [2.1](#21 Icon Types) Icon Types
+	* [2.1](#21-icon-types) Icon Types
 - [3.0](#30) All icons will be designed using one of the provided templates. 
 	* [3.1](#31) Icon sets may be developed in a single file (using icon set templates)
 - [4.0](#40) Sub icons for each set will be consistently sized and placed. (SizE: 8px Recommended)
