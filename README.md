@@ -37,7 +37,7 @@ home-variant-outline
 
 ###### We allow infinite variations on an icon. You can submit enitre sets of icons even. 
 
-##### _Forumicon Nameing Conventions examples_:
+##### _Forumicon Nameing Conventions_:
 
 ```javascript
 type-iconName-theme-set
