@@ -4,7 +4,6 @@ about: Report an error associated with one of the icons
 title: "[BUG]"
 labels: bug
 assignees: ''
-
 ---
 
 Icon: (Name of the icon goes here)
