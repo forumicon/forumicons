@@ -1,7 +1,7 @@
-## ![Requestors](https://avatars2.githubusercontent.com/t/3168962?s=24&v=4) Requestors
+## ![Requestors](https://api.iconify.design/mdi-account-circle.svg?color=MediumOrchid) Requestors
 To request an icon simply create and Icon Request Issue and follow the guidlines within the Issue template
 
-## ![Designers](https://avatars2.githubusercontent.com/t/3168388?s=24&v=4) Designers
+## ![Designers](https://api.iconify.design/mdi-check-decagram.svg?color=DeepSkyBlue) Designers
 Its very easy to become a designer. All you need to do is
 
 ###### STEPS:
@@ -12,7 +12,7 @@ Its very easy to become a designer. All you need to do is
 
 From then on you just repeat step #2 as often as you wish!
 
-## ![Reviewers](https://avatars2.githubusercontent.com/t/3168383?s=24&v=4) Reviewers
+## ![Reviewers](https://api.iconify.design/mdi-clipboard-check.svg?color=IndianRed) Reviewers
 
 Firstly anyone can review an icon submission! the difference is that only offical Reviewers can merge an icon and only the one who merges the icon gets compensated via the donation system!
 
@@ -31,6 +31,6 @@ Once Nominated the Revier Team will vote and if the majority is in favour a Deve
 
 > NOTE: The Reviewer team is lead by the Reviewer Team Leader who is a Development Team member in charge of the Reviewer team. They are responsible for mainting all the reviewer documentation, checklists, and guidlines as well as the final approver for any and all nominations to the Reviewer team 
 
-## ![Developers](https://avatars1.githubusercontent.com/t/3168385?s=24&v=4) Developers
+## ![Developers](https://api.iconify.design/mdi-shield-check.svg?color=LightSeaGreen) Developers
 
 These are the team memebrs who help manage and develop the project and its inner workings.
