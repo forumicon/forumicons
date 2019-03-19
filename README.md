@@ -33,7 +33,7 @@ home-outline
 ###### We allow infinite variations on an icon. You can submit enitre sets of icons even. So we could have:
 
 ```javascript
-iconName-iconTheme-iconSetName
+iconType-iconName-iconTheme-iconSetName
 ```
 
 ###### For eample:
@@ -43,8 +43,8 @@ home-color-spify
 home-solid-spify
 home-outline-spify
 home-twotone-spify
-home-solid-exl
-home-outline-exl
+imageset-home-solid-exl
+imageset-home-outline-exl
 ``` 
 
 ##### Each has a different license and attribution requirments. 
