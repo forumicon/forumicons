@@ -22,12 +22,14 @@ Using the icons could not be simpiler. All of our icons are added to the iconify
 ### What is the benifit over all the other icon libraries?
 There are alot of free icons/libraries out there to use.
 
-##### What the difference between this and https://materialdesignicons.com/
-###### Firstly we have different types of icons (icons, emojis, imagesets, forum-icons, topic-icons, rank-imgs, etc...) they do not. Secondly they have strict policy on duplication of usecases. Meaning hat there are only allowed 1 or 2 versions of each icon for example 
+##### Whats the difference between this and https://materialdesignicons.com/
+###### Firstly nothing they are a great resource. However we have different types of icons (icons, emojis, imagesets, forum-icons, topic-icons, rank-imgs, etc...) which they do not. Secondly we offer the ability to request custom icons which they do not. Third we offer a donation based system for icon submissions. Lastly they have strict policy on duplication of usecases. Meaning that there are only allowed a few versions of each icon for example 
 
 ```css
 home-solid
 home-outline
+home-variant-solid
+home-variant-outline
 ```
 
 ###### We allow infinite variations on an icon. You can submit enitre sets of icons even. 
