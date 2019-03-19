@@ -12,14 +12,14 @@
 
 ## Rules
 
-- [1.0](1.0) All icons will be built to an 8px grid.
-- [2.0](2.0) Each `iconType` will have a size requirment For Exp: `icon: 24px`
+- [1.0](#10) All icons will be built to an 8px grid.
+- [2.0](#20) Each `iconType` will have a size requirment For Exp: `icon: 24px`
 	* This may be two small for more intricate and advanced icons. Check the Readme for each iocnType folder for specific guidlines for that type.
-- [3.0](3.0) All icons will be designed using one of the provided templates. 
-	* [3.1](3.1) Icon sets may be developed in a single file (using icon set templates)
-- [4.0](4.0) Sub icons for each set will be consistently sized and placed. (SizE: 8px Recommended)
-	* [4.1](4.1) No sub icon wil decend or rise above/below main icon.
-- [5.0](5.0) All spacing, gaps, offsets, outlines, etc will be no smaller than 2px to ensure proper rendring at small sizes.
+- [3.0](#30) All icons will be designed using one of the provided templates. 
+	* [3.1](#31) Icon sets may be developed in a single file (using icon set templates)
+- [4.0](#40) Sub icons for each set will be consistently sized and placed. (SizE: 8px Recommended)
+	* [4.1](#41) No sub icon wil decend or rise above/below main icon.
+- [5.0](#50) All spacing, gaps, offsets, outlines, etc will be no smaller than 2px to ensure proper rendring at small sizes.
 - 
 
 ### 1.0
