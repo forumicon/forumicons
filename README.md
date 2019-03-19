@@ -22,8 +22,11 @@ Using the icons could not be simpiler. All of our icons are added to the [iconif
 ### What is the benifit over all the other icon libraries?
 There are alot of free icons/libraries out there to use.
 
-##### Whats the difference between this and https://materialdesignicons.com/
-###### Firstly nothing they are a great resource. However we have different types of icons (icons, emojis, imagesets, forum-icons, topic-icons, rank-imgs, etc...) which they do not. Secondly we offer the ability to request custom icons which they do not. Third we offer a donation based system for icon submissions. Lastly they have strict policy on duplication of usecases. Meaning that there are only allowed a few versions of each icon for example 
+##### Whats the difference between this and https://materialdesignicons.com/ a.k.a: **MDI**
+1. Nothing they are a great resource we can not recommend enough. However we have different types of icons (icons, emojis, imagesets, forum-icons, topic-icons, rank-imgs, etc...) which is outside the norm of a simple icon.
+2. We also offer the ability to request custom icons/sets which does not work with the intent of **MDI**.
+3. We offer a donation based system for icon submissions to support the artists. While the concept is still the same, all design submissions give the express consent of ownership of the designs to **FourmiCon**. As Artists ourselves we still wish to allow for contribution/support to the great Artisits that are apart of our community.
+4. Lastly they have a strict policy on duplication of usecases. Meaning that there are only allowed a few versions of each icon for example 
 
 ```css
 home-solid
@@ -34,10 +37,10 @@ home-variant-outline
 
 ###### We allow infinite variations on an icon. You can submit enitre sets of icons even. 
 
-##### _Forumicon Nameing Conventions_:
+##### _Forumicon Nameing Conventions examples_:
 
 ```javascript
-iconType-iconName-iconTheme-iconSetName
+type-iconName-theme-set
 ```
 
 ###### So For example you colud have: 
@@ -47,12 +50,13 @@ home-color-spify
 home-solid-spify
 home-outline-spify
 home-twotone-spify
-imageset-home-solid-exl
-imageset-home-outline-exl
-emoji-house-color-twemoji
+s-home-solid-exl
+b-discord-outline-exl
+r-admin-outline-army
+e-house-color-twemoji
 ```
 
-###### normal icon does not require an iconType
+> Check the [Guidlines](https://github.com/forumicon/forumicons/blob/master/design/README.md) for more inof on the naming conventions 
 
 ##### Each has a different license and attribution requirments. 
 ###### We have none!
@@ -61,7 +65,7 @@ emoji-house-color-twemoji
 ###### We enpower the entire community at large!
 
 ##### Most have verying degrees of design quality and loose practices or poor understanding of proper implimentation of vector graphics
-###### We employ strict adherence and review processes to ensure the best qaulity and consistency as well as vast experience working with and on designing and integration icons into various applications & projects.
+###### We employ strict adherence and quality control processes to ensure the best qaulity and consistency as well as vast experience working with and on designing and integration icons into various applications & projects.
 
 ### Frequently Asked Questions?
 
