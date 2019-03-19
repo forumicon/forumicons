@@ -45,6 +45,7 @@ home-outline-spify
 home-twotone-spify
 imageset-home-solid-exl
 imageset-home-outline-exl
+emoji-house-color-twemoji
 ``` 
 
 ##### Each has a different license and attribution requirments. 
