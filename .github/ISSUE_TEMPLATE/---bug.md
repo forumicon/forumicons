@@ -1,5 +1,5 @@
 ---
-name: "![Bug](https://api.iconify.design/mdi-bug.svg?color=%23d50000&height=16) Bug"
+name: "⚠️ Bug"
 about: Report an error associated with one of the icons
 title: "[BUG]"
 labels: bug
