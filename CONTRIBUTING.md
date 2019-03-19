@@ -1,7 +1,7 @@
 ## Requestors
 To request an icon simply create and Icon Request Issue and follow the guidlines within the Issue template
 
-## Designers
+## ![Designers](https://avatars2.githubusercontent.com/t/3168388?s=24&v=4) Designers
 Its very easy to become a designer. All you need to do is
 
 ###### STEPS:
@@ -12,7 +12,7 @@ Its very easy to become a designer. All you need to do is
 
 From then on you just repeat step #2 as often as you wish!
 
-## Reviewers
+## ![Reviewers](https://avatars2.githubusercontent.com/t/3168383?s=24&v=4) Reviewers
 
 Firstly anyone can review an icon submission! the difference is that only offical Reviewers can merge an icon and only the one who merges the icon gets compensated via the donation system!
 
@@ -28,3 +28,7 @@ Once Nominated the Revier Team will vote and if the majority is in favour a Deve
 > NOTE: The number of reviewers is something that is dictated by the ammount of submission. With that being said, the Reviewer team will mandate how many team members are required at any given time.
 
 > NOTE: The Reviewer team is lead by the Reviewer Team Leader who is a Development Team member incharge of the Reviewer team.
+
+## ![Developers](https://avatars1.githubusercontent.com/t/3168385?s=24&v=4) Developers
+
+These are the team memebrs who help manage and develop the project and its inner workings.
