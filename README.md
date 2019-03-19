@@ -30,13 +30,15 @@ home-solid
 home-outline
 ```
 
-###### We allow infinite variations on an icon. You can submit enitre sets of icons even. So we could have:
+###### We allow infinite variations on an icon. You can submit enitre sets of icons even. 
+
+##### _Forumicon Nameing Conventions_:
 
 ```javascript
 iconType-iconName-iconTheme-iconSetName
 ```
 
-###### For eample:
+###### So For example you colud have: 
 
 ```css
 home-color-spify
@@ -46,7 +48,9 @@ home-twotone-spify
 imageset-home-solid-exl
 imageset-home-outline-exl
 emoji-house-color-twemoji
-``` 
+```
+
+###### normal icon does not require an iconType
 
 ##### Each has a different license and attribution requirments. 
 ###### We have none!
