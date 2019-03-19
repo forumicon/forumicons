@@ -1,4 +1,4 @@
-# ![Fourmicon](https://api.iconify.design/mdi-robot.svg?color=%239575cd&height=28) Forumicon
+# ![FourmiCon](https://api.iconify.design/mdi-robot.svg?color=%239575cd&height=28) ForumiCon
 Free to use community developed vector Forum icon/imgs ibrary
 
 ## WIP - Comming Soon
