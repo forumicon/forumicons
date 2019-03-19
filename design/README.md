@@ -8,7 +8,7 @@
 	* [2.1](#21-icon-types) Icon Types
 - [3.0](#30) All icons will be designed using one of the provided templates. 
 	* [3.1](#31) Icon sets may be developed in a single file (using icon set templates)
-- [4.0](#40) Sub icons for each set will be consistently sized and placed. (SizE: 8px Recommended)
+- [4.0](#40) Sub icons for each set will be consistently sized and placed. (size: 8px Recommended)
 	* [4.1](#41) No sub icon wil decend or rise above/below main icon.
 - [5.0](#50) All spacing, gaps, offsets, outlines, etc will be no smaller than 2px to ensure proper rendring at small sizes.
 - 
