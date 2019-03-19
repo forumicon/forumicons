@@ -1,5 +1,5 @@
 ## ![Requestors](https://api.iconify.design/mdi-account-circle.svg?color=%23ba68c8&height=20) Requestors
-To request an icon simply create and Icon Request Issue and follow the guidlines within the Issue template
+To request an icon simply create an Icon Request Issue and follow the guidlines within the Issue template
 
 ## ![Designers](https://api.iconify.design/mdi-check-decagram.svg?color=%2342a5f5&height=20) Designers
 Its very easy to become a designer. All you need to do is
