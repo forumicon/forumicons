@@ -1,4 +1,4 @@
-## Requestors
+## ![Designers](https://avatars2.githubusercontent.com/t/3168962?s=280&v=4) Requestors
 To request an icon simply create and Icon Request Issue and follow the guidlines within the Issue template
 
 ## ![Designers](https://avatars2.githubusercontent.com/t/3168388?s=24&v=4) Designers
