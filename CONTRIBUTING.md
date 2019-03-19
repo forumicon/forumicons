@@ -18,6 +18,8 @@ Firstly anyone can review an icon submission! the difference is that only offica
 
 Every pull request has a reviewer checklist to follow. Offical Reviewers can check things off, but anyone can respond to the issu with a copy of the checklist completed and a statment sayign that its approved.
 
+> NOTE: The Designer team while not nessecarily a team is lead by the Design Team Leader who is a Development Team member in charge of the Design team. They are responsible for ensuring that all the Design Templates, Guidlines, and Requirments are properly updated as well as approving designers to the team along with the other Development Team members.
+
 #### So How do you become an offical reviewer?
 
 To be added to the reviewer team, show a desire by reviewing submissions. An Offical Reviewer will then nominate you for the team after 5 successfuly submissions.
@@ -27,7 +29,7 @@ Once Nominated the Revier Team will vote and if the majority is in favour a Deve
 
 > NOTE: The number of reviewers is something that is dictated by the ammount of submission. With that being said, the Reviewer team will mandate how many team members are required at any given time.
 
-> NOTE: The Reviewer team is lead by the Reviewer Team Leader who is a Development Team member incharge of the Reviewer team.
+> NOTE: The Reviewer team is lead by the Reviewer Team Leader who is a Development Team member in charge of the Reviewer team. They are responsible for mainting all the reviewer documentation, checklists, and guidlines as well as the final approver for any and all nominations to the Reviewer team 
 
 ## ![Developers](https://avatars1.githubusercontent.com/t/3168385?s=24&v=4) Developers
 
