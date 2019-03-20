@@ -6,7 +6,7 @@
 2. [Icon Sizing](#2-icon-sizing)
 	1. [Icon Types](#2i-icon-types)
 	2. [Naming Convention Scheme](#2ii-naming-convention-scheme) 
-	3. [Smallest Size Limit](#2iii-smallest-size-limit)
+	3. [Small Size Limitations](#2iii-small-size-limitations)
 3. [Templates](#3-templates)
 	1. [Icon Sets](#3i-icon-sets)
 4. [Sub Icons](#4-sub-icons)
@@ -45,9 +45,11 @@ For example if you are designing to a 24px size it will ensure your icon is at t
 |----------------------|------------------------|------------|----------|
 | `n/a` `i` `b` `r` `e` | user-shield-check | `solid` `outline` `twotone` `color` `etc...` | custom name for set of icons given by artist |
 
-#### 2.iii Smallest Size Limit
+#### 2.iii Small Size Limitations
 
-All spacing, gaps, offsets, outlines, etc will be no smaller than 2px to ensure proper rendring at small sizes. When working with icons that are meant to scale it is common to see smaller elements reduced in size as they are scaled down. To avoid inadvertant render issues, you should ensure that all outlines, gaps, finer details are no less than 2px.
+Because of the smaller sizes most icons are meant to be used at each icon should be built to a range. This means that if the design is at 24px all elements should look and fucntion at the correctsize and spacing at that size. It should also work at double the size and half the size as well. For example a stroke or outline should look the same or relatively the same at half and double the size of the icon.
+
+With that being said different sizes of the icons can be submitted for larger sized versions if needed. If the icon is meant to be rendred or used in a situation where it may be larger than double the original size. We sugest producing a larer scale version as well. to handle naming concerns for this we append a notional size on the end of the file name scheme. so to use the icon via iconify you would name it `thumbs-up-color-lg` where `-lg` is the tag added to signify a large scale version. then it could be used by iconify by using `fi-e-thumbs-up-color-lg`
 
 ### 3. Templates
 
