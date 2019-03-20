@@ -32,12 +32,12 @@ For example if you are designing to a 24px size it will ensure your icon is at t
 #### 2.i Icon Types
 | Icon Type  | Naming Convention | Exp |
 | ------------- | ------------- | ------------- |
-| Icon  | *n/a* | `user-shield-check-outline-set1` |
-| Imageset  | s  | `s-forum-outline-set1`|
-| Forum Image  | i  | `i-support-color-set1` |
-| Brand Icon  | b  | `b-facebook-solid-set1` |
-| Rank Image  | r  | `r-admin-twotone-set1` |
-| Emoji  | e  | `e-poo-color-set1` |
+| Icon  | `fi-` | `user-shield-check-outline-set1` |
+| Imageset  | `fi-s-`  | `forum-outline-set1`|
+| Forum Image  | `fi-i-`  | `support-color-set1` |
+| Brand Icon  | `fi-b-`  | `facebook-solid-set1` |
+| Rank Image  | `fi-r-`  | `admin-twotone-set1` |
+| Emoji  | `fi-e-`  | `poo-color-set1` |
 
 #### 2.ii Naming Convention Scheme
 
