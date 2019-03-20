@@ -2,16 +2,16 @@
 
 ## Table of Contents
 
-- [1.0](#10-8px-grid) 8px Grid.
-- [2.0](#20-icon-sizing) Icon Sizing
-	* [2.1](#21-icon-types) Icon Types
-	* [2.2](#22-naming-convention-scheme) Naming Convetion Scheme
-	* [2.3](#23-smallest-size-limit) Smallest Size Limit
-- [3.0](#30-templates) Templates
-	* [3.1](#31-icon-sets) Icon Sets
-- [4.0](#40-sub-icons) Sub Icons
-	* [4.1](#41-decending-and-ascending) Decending and Ascending
-- [5.0](#50-svgo-optimization) SVGO Optimization
+- [1.0 8px Grid](#10-8px-grid)
+- [2.0 Icon Sizing](#20-icon-sizing)
+	* [2.1 Icon Types](#21-icon-types)
+	* [2.2 Naming Convetion Scheme](#22-naming-convention-scheme)
+	* [2.3 Smallest Size Limit](#23-smallest-size-limit)
+- [3.0 Templates](#30-templates)
+	* [3.1 Icon Sets](#31-icon-sets)
+- [4.0 Sub Icons](#40-sub-icons)
+	* [4.1 Decending and Ascending](#41-decending-and-ascending)
+- [5.0 SVGO Optimization](#50-svgo-optimization)
 
 ### 1.0 8px Grid
 
