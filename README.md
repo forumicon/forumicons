@@ -63,7 +63,7 @@ e-house-color-twemoji
 ###### We enpower the entire community at large!
 
 ##### Most have verying degrees of design quality and loose practices or poor understanding of proper implimentation of vector graphics
-###### We employ strict adherence and quality control processes to ensure the best qaulity and consistency as well as vast experience working with and on designing and integration icons into various applications & projects.
+###### We employ strict adherence and quality control processes to ensure the best qaulity and consistency as well as vast experience working with, designing, and integrating icons into various applications & projects.
 
 ### Frequently Asked Questions?
 
