@@ -12,6 +12,7 @@
 - [4.0](#40) Sub icons for each set will be consistently sized and placed. (size: 8px Recommended)
 	* [4.1](#41) No sub icon wil decend or rise above/below main icon.
 - [5.0](#50) All spacing, gaps, offsets, outlines, etc will be no smaller than 2px to ensure proper rendring at small sizes.
+- [6.0](#60) All icons should be run through SVGO using our provided options to optimize for the best quality and rendering.
 
 ### 1.0
 
@@ -66,3 +67,16 @@ The placement of a sub icon can convey a differnt meaning. in the center may sym
 ### 5.0
 
 When working with icons that are meant to scale it is common to see smaller elements reduced in size as they are scaled down. To avoid inadvertant render issues, you should ensure that all outlines, gaps, finer details are no less than 2px.
+
+### 6.0
+
+Every graphic software is different and handles vectors and svg conversion differently. It is this reason that we need to run everything through SVGO to optimize the final file.
+- Removes all the useless stuff that your editor adds
+- Converts all shapes to high performant paths
+- Removes unnessecary grouping elements
+- Removes all comments and unnessecary extra nodes
+- Removes all irrelavent xml and doctype stuff
+- Compresses the paths to help further reduce the file size.
+- and more...
+
+You can find the required options and a guide to do this under the templates/readme since some editors have plugins to automatically do this and some do not. You may have to manually perform this task or consider installing and running it from the command line.
