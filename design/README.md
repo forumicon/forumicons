@@ -17,7 +17,7 @@
 
 We follow the Google Material Design principles and as such find the 8px grid to be extremely versatile and idealy suited for working with web graphics, specificaly icons. You can find a setup guide for your application under the templates folder. All icons will be built to an 8px grid.
 
-### 2.0 Icon-sizing
+### 2.0 Icon Sizing
 
 Each `iconType` will have a size requirment For Exp: `icon: 24px`. We have several different category types for the icons we support. Each of which can be seen in section 2.1. Because each of these has a different use they each have unique requirments specifc just for them. For more intricate and advanced icons 24px may be too small. Check the Readme in each iocnType folder for specific guidlines for that type.
 
