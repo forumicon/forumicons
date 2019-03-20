@@ -6,24 +6,22 @@ Free to use community developed vector Forum icon/imgs ibrary
 ### What is **Forumicon**
 fourmicon is a community built and maintained repository of completly free to use vector graphics to use for your forum/site/app/or project. There is no need to provide attribution. Instead we only ask that is you really like an asset or series that you consider  donation via the link on to that icons page on the wesite. Its completely not mandatory but helps to promote quality design submissions. There is no limit on how much you can donate or how many times.
 
-Furthermore you can acctually create an Icon/img request if you have a specific design that you need that is not available. The community will do its best to provide a quality design to meet your needs. Once approved and merged into the repository it will immediately be available via the iconify service which is covered later in more detail. We only ask again that to consider providing a donation for the work on the icon page. This is provided directly to the **Artist** `(85%)` | **Reviewer** `(10%)` | **FourmiCon** `(5%)`. This payment scale may change overtime depending on how much is needed for up keep. The intent is to fund the community and the artists/members for there time. As more donations flow in less a smaller % may be required to pay the bills. The difference will go to the **Artist** most likely. Furthermore none of these are set in stone. They are all up to the community to set with the exception of the % required to pay the bills...
+Furthermore you can acctually create an [Icon/img request](https://github.com/forumicon/forumicons/issues/new?assignees=&labels=ICON+Request&template=---icon-request.md&title=%5BICON+REQUEST%5D+) if you have a specific design that you need that is not available. The community will do its best to provide a quality design to meet your needs. Once **Approved** and **Merged** into the repository it will almost immediately be available via the [Iconify](https://iconify.design/) service which is covered later in more detail. We only ask again that to consider providing a donation for the work on the icon page. This is provided directly to the **Artist** `(85%)` | **Reviewer** `(10%)` | **FourmiCon** `(5%)`. This payment scale may change overtime depending on how much is needed for up keep. The intent is to fund the community and the artists/members for there time. As more donations flow in a smaller % may be required to pay the bills to keep the lights running for **FourmiCon**. The difference will then go to the **Artist** most likely. Furthermore none of these are set in stone. They are all up to the community to set with the exception of the % required to pay the bills...
 
 ### How to use the icons?
-Using the icons could not be simpiler. All of our icons are added to the [Iconify](https://iconify.design/) icon service. Its a simple to use javascript api that fetches any requested icons and returns them to the page. See more on how this works at the following link.
+Using the icons could not be simpiler. All of our icons are added to the [Iconify](https://iconify.design/) icon service. Its a simple to use javascript api that fetches any requested icons and returns them to the page as highly compressed and cached inline svgs. See more on how this works on the [Iconify](https://iconify.design/) website.
 
 ### What is the process for getting custom icons?
-1. Create an Icon Request issue.
+1. Create an [Icon Request](https://github.com/forumicon/forumicons/issues/new?assignees=&labels=ICON+Request&template=---icon-request.md&title=%5BICON+REQUEST%5D+) issue.
 2. Designer creates a Icon Pull Request
-3. Reviewer approves Icon and merges Pull Request
-4. Reviewer creates Iconify Pull Request
-5. Reviewer once Iconify Pull Request is merged adds Iconify label to the Icon Pull Request
-6. Check the fourmicon site for the name of your icon/s and follow the guide to adding to your project via Iconify.
+3. Reviewer Approves Icon and Merges Pull Request
+4. Check the [FourmiCon](https://www.fourmicon.com) site for the name of your icon/s and follow the guide to adding to your project directly or via [Iconify](https://iconify.design/).
 
 ### What is the benifit over all the other icon libraries?
-There are alot of free icons/libraries out there to use.
+There are alot of free icons/libraries out there to use. They all have lots of quality icons but we offer more versatile assets and the capability to request professional work.
 
 ##### Whats the difference between this and https://materialdesignicons.com/ a.k.a: **MDI**
-1. Nothing they are a great resource we can not recommend enough. However we have different types of icons (icons, emojis, imagesets, forum-icons, topic-icons, rank-imgs, etc...) which is outside the norm of a simple icon.
+1. Nothing they are a great resource we can not recommend enough. However again we have different types of icons (icons, emojis, imagesets, forum-icons, topic-icons, rank-imgs, etc...) which is outside the norm of a simple icon.
 2. We also offer the ability to request custom icons/sets which does not work with the intent of **MDI**.
 3. We offer a donation based system for icon submissions to support the artists. While the concept is still the same, all design submissions give the express consent of ownership of the designs to **FourmiCon**. As Artists ourselves we still wish to allow for contribution/support to the great Artisits that are apart of our community.
 4. Lastly they have a strict policy on duplication of usecases. Meaning that there are only allowed a few versions of each icon for example 
