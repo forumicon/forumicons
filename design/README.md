@@ -5,7 +5,7 @@
 1. [8px Grid](#1-8px-grid)
 2. [Icon Sizing](#2-icon-sizing)
 	1. [Icon Types](#2i-icon-types)
-	2. [Naming Convention Scheme](#2i-naming-convention-scheme)
+	2. [Naming Convention Scheme](#2ii-naming-convention-scheme) 
 	3. [Smallest Size Limit](#2iii-smallest-size-limit)
 3. [Templates](#3-templates)
 	1. [Icon Sets](#3i-icon-sets)
