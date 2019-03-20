@@ -40,7 +40,7 @@ home-variant-outline
 ##### _Forumicon Nameing Conventions_:
 
 ```javascript
-type-iconName-theme-set
+type-Icon-Name-theme-set
 ```
 
 ###### So For example you colud have: 
