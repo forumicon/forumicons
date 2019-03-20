@@ -2,33 +2,32 @@
 
 ## Table of Contents
 
-- [1.0](#10) All icons will be built to an 8px grid.
-- [2.0](#20) Each `iconType` will have a size requirment For Exp: `icon: 24px`
-	* This may be two small for more intricate and advanced icons. Check the Readme for each iocnType folder for specific guidlines for that type.
+- [1.0](#10-8px-grid) 8px Grid.
+- [2.0](#20-icon-sizing) Icon Sizing
 	* [2.1](#21-icon-types) Icon Types
-	* [2.2](#22-naming-convention-scheme)
-- [3.0](#30) All icons will be designed using one of the provided templates. 
-	* [3.1](#31) Icon sets may be developed in a single file (using icon set templates)
-- [4.0](#40) Sub icons for each set will be consistently sized and placed. (size: 8px Recommended)
-	* [4.1](#41) No sub icon wil decend or rise above/below main icon.
-- [5.0](#50) All spacing, gaps, offsets, outlines, etc will be no smaller than 2px to ensure proper rendring at small sizes.
-- [6.0](#60) All icons should be run through SVGO using our provided options to optimize for the best quality and rendering.
+	* [2.2](#22-naming-convention-scheme) Naming Convetion Scheme
+	* [2.3](#23-smallest-size-limit) Smallest Size Limit
+- [3.0](#30-templates) Templates
+	* [3.1](#31-icon-sets) Icon Sets
+- [4.0](#40-sub-icons) Sub Icons
+	* [4.1](#41-decending-and-ascending) Decending and Ascending
+- [5.0](#50-svgo-optimization) SVGO Optimization
 
-### 1.0
+### 1.0 8px Grid
 
-We follow the Google Material Design principles and as such find the 8px grid to be extremely versatile and idealy suited for working with web graphics, specificaly icons. You can find a setup guide for your application under the templates folder.
+We follow the Google Material Design principles and as such find the 8px grid to be extremely versatile and idealy suited for working with web graphics, specificaly icons. You can find a setup guide for your application under the templates folder. All icons will be built to an 8px grid.
 
-<span class="btn-danger">test</span>
+### 2.0 Icon-sizing
 
-### 2.0
+Each `iconType` will have a size requirment For Exp: `icon: 24px`. We have several different category types for the icons we support. Each of which can be seen in section 2.1. Because each of these has a different use they each have unique requirments specifc just for them. For more intricate and advanced icons 24px may be too small. Check the Readme in each iocnType folder for specific guidlines for that type.
 
-We have several different category types for the icons we support. Each of which can be seen below. Because each of these has a different use they each have unique requirments specifc just to them. One of these is a different size requirment. To ensure proper icon placment it is a standard convention to include an empty filled, transparent background the full size of the template. This should be removed from the final exported svg icon code. 
+To ensure proper icon placment it is a standard convention to include an empty fill, transparent background block the full size of the template. This should be removed from the final exported svg icon code prior to submitting for final review.
 
-All of the templates include this layer by default for you and we have tests that will automated checks for it in the final svg pull request. The acception here is the template for sets. by default it only contains 9 icons in a grid. Make sure to duplicate an entire folder when adding a new icon to ensure that this transparent layer is present.
+All of the templates include this layer by default for you and we have tests that will automatically check for it in the final svg pull request. The acception here is the template for sets. By default it only contains 9 icons in a grid. Make sure to duplicate the entire folder when adding a new icon to ensure that this transparent layer is present.
 
 > NOTE: you can tell that its not present if the svg width and height do not match the required size. For Exp: `width="24px" height="24px"` for a standard icon.
 
-For example if you are designing to a 24px size it will ensure your icon is at the center of block with 24x24 pixel dimensions in the browser.
+For example if you are designing to a 24px size it will ensure your icon is at the center of block with `24x24` pixel dimensions in the browser.
 
 #### 2.1 Icon Types
 | Icon Type  | Naming Convention | Exp |
@@ -46,37 +45,37 @@ For example if you are designing to a 24px size it will ensure your icon is at t
 |----------------------|------------------------|------------|----------|
 | `n/a` `i` `b` `r` `e` | user-shield-check | `solid` `outline` `twotone` `color` `etc...` | custom name for set of icons given by artist |
 
-### 3.0
+#### 2.3 Smallest Size Limit
 
-While we prefer to use shetch to design all of our icons, we understnad that not everyone has access to use sketch or may prefer a different tool. To this end we tray to maintian templates for all the popular tools out there. You can find more info in the Readme for the templates folder.
+All spacing, gaps, offsets, outlines, etc will be no smaller than 2px to ensure proper rendring at small sizes. When working with icons that are meant to scale it is common to see smaller elements reduced in size as they are scaled down. To avoid inadvertant render issues, you should ensure that all outlines, gaps, finer details are no less than 2px.
 
-Each icon should be developed using on of the templates provided and saved in a state ready to export. The filename should be the same as the final name for the icon as well as the containing folder in the file itself
+### 3.0 Templates
 
-#### 3.1
+While we prefer to use sketch to design all of our icons, we understnad that not everyone has access to use sketch or may prefer a different tool. To this end we try to maintian templates for all the popular tools out there. You can find more info in the Readme in the templates folder.
+
+Each icon will be developed using one of the templates provided and saved in a state ready to export. The filename should be the same as the final name for the icon as well as the containing folder in the file itself
+
+#### 3.1 Icon Sets
 
 The exception to the rule is if you are providing a new set of icons. To facilitate this its far easier to maintain a single file which can easily export all the icons. The naming of each icons folder in the file must match each icons final filename. However the name of the template file should follow the following convention `type-set`
 
-### 4.0
+### 4.0 Sub Icons
 
-To facilitate better quality across icons as its common practice to have sub icons, the use of a standard size for all of them used in the set. We reccommend using 8px but that is not a requirment. The only requirment is that it be no less than 2px and be evenly divisable by 2px.
+To facilitate better quality across icons as it is common practice to have sub icons, the use of a standard size for all of them will be used in the set. We reccommend using **8px** but that is **not** a requirment. The only requirment is that it be **no less** than **2px** and be **evenly divisable** by **2px**.
 
-#### 4.1
+#### 4.1 Decending and Ascending
 
-The placement of a sub icon can convey a differnt meaning. in the center may symbolize a tpye, to the side may symbolize an action or a status, etc... To that end the sub icon should not be placed lower than the bottom most pixel or hight than the top most pixel of the main icon.
+No sub icon will decend or ascend above/below main icon. The placement of a sub icon can convey a differnt meaning. Centered may symbolize tpye, Left aligned may symbolize an action or a status, etc... To that end the sub icon should not be placed lower than the bottom most pixel or higher than the top most pixel of the main icon.
 
-### 5.0
+### 5.0 SVGO Optimization
 
-When working with icons that are meant to scale it is common to see smaller elements reduced in size as they are scaled down. To avoid inadvertant render issues, you should ensure that all outlines, gaps, finer details are no less than 2px.
-
-### 6.0
-
-Every graphic software is different and handles vectors and svg conversion differently. It is this reason that we need to run everything through SVGO to optimize the final file.
-- Removes all the useless stuff that your editor adds
-- Converts all shapes to high performant paths
-- Removes unnessecary grouping elements
-- Removes all comments and unnessecary extra nodes
-- Removes all irrelavent xml and doctype stuff
-- Compresses the paths to help further reduce the file size.
+All icons should be run through SVGO using our provided options to optimize for the best quality and rendering. Every graphic software is different and handles vectors and svg conversion differently. It is this reason that we need to run everything through SVGO to optimize the final file by.
+- Remove all the useless stuff that your editor adds
+- Convert all shapes to high performant paths
+- Remove unnessecary grouping elements
+- Remove all comments and unnessecary extra nodes
+- Remove all irrelavent xml and doctype stuff
+- Compress the paths to help further reduce the file size.
 - and more...
 
 You can find the required options and a guide to do this under the templates/readme since some editors have plugins to automatically do this and some do not. You may have to manually perform this task or consider installing and running it from the command line.
