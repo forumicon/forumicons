@@ -9,7 +9,7 @@ fourmicon is a community built and maintained repository of completly free to us
 Furthermore you can acctually create an Icon/img request if you have a specific design that you need that is not available. The community will do its best to provide a quality design to meet your needs. Once approved and merged into the repository it will immediately be available via the iconify service which is covered later in more detail. We only ask again that to consider providing a donation for the work on the icon page. This is provided directly to the **Artist** `(85%)` | **Reviewer** `(10%)` | **FourmiCon** `(5%)`. This payment scale may change overtime depending on how much is needed for up keep. The intent is to fund the community and the artists/members for there time. As more donations flow in less a smaller % may be required to pay the bills. The difference will go to the **Artist** most likely. Furthermore none of these are set in stone. They are all up to the community to set with the exception of the % required to pay the bills...
 
 ### How to use the icons?
-Using the icons could not be simpiler. All of our icons are added to the [iconify](https://iconify.design/) icon service. Its a simple to use javascript api that fetches any requested icons and returns them to the page. See more on how this works at the following link.
+Using the icons could not be simpiler. All of our icons are added to the [Iconify](https://iconify.design/) icon service. Its a simple to use javascript api that fetches any requested icons and returns them to the page. See more on how this works at the following link.
 
 ### What is the process for getting custom icons?
 1. Create an Icon Request issue.
@@ -77,3 +77,6 @@ e-house-color-twemoji
 - **They are scaleable to any size**
 - **Completely responsive by nature**
 - **Are fully uncompressed, pixel perfect - No pixelization or blurryness**
+
+#### Do I have to use them with [Iconify](https://iconify.design/)?
+##### No you cna simply download adn use it anywhere you like. Its completely up to you. We do ask that you consider looking at using [Iconify](https://iconify.design/) if its feasabile as it makes it a breeze to swap out assets without having to download/upload or host it.
