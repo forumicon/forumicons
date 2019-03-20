@@ -1,4 +1,4 @@
-# ![FourmiCon](https://secure.gravatar.com/avatar/7a1087fbec24cbbcd0abf7ea965fa30e?s=32) ForumiCon
+# ![FourmiCon](https://secure.gravatar.com/avatar/7a1087fbec24cbbcd0abf7ea965fa30e?s=48) ForumiCon
 Free to use community developed vector Forum icon/imgs ibrary
 
 ## WIP - Comming Soon
