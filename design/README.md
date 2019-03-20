@@ -30,20 +30,25 @@ All of the templates include this layer by default for you and we have tests tha
 For example if you are designing to a 24px size it will ensure your icon is at the center of block with `24x24` pixel dimensions in the browser.
 
 #### 2.i Icon Types
-| Icon Type  | Naming Convention | Exp |
+| Icon Type  | Prefix | Exp |
 | ------------- | ------------- | ------------- |
-| Icon  | `fi-` | `user-shield-check-outline-set1` |
-| Imageset  | `fi-s-`  | `forum-outline-set1`|
-| Forum Image  | `fi-i-`  | `support-color-set1` |
-| Brand Icon  | `fi-b-`  | `facebook-solid-set1` |
-| Rank Image  | `fi-r-`  | `admin-twotone-set1` |
-| Emoji  | `fi-e-`  | `poo-color-set1` |
+| Icon  | `fi-` | `fi-shield-check-color-shieldy` |
+| Imageset  | `fi-s-`  | `fi-s-shield-check-color-shieldy`|
+| Forum Image  | `fi-i-`  | `fi-i-shield-check-color-shieldy` |
+| Brand Icon  | `fi-b-`  | `fi-b-shield-check-color-shieldy` |
+| Rank Image  | `fi-r-`  | `fi-r-shield-check-color-shieldy` |
+| Emoji  | `fi-e-`  | `fi-e-shield-check-color-shieldy` |
 
 #### 2.ii Naming Convention Scheme
 
-| Icon Type(Categorie) | Icon Name | Icon Theme | Icon Set |
-|----------------------|------------------------|------------|----------|
-| `n/a` `i` `b` `r` `e` | user-shield-check | `solid` `outline` `twotone` `color` `etc...` | custom name for set of icons given by artist |
+| Repo Refix | Type(Categorie) Prefix | Icon Name | Icon Theme | Icon Size | Icon Set |
+|------------|------------------------|-----------|------------|-----------|----------|
+| `fi`| `n/a` `i` `b` `r` `e` | user-shield-check | `solid` `outline` `twotone` `color` `etc...` | `lg` | custom name |
+
+Exp:
+```javascript
+fi-b-Icon-Name-theme-size-set
+```
 
 #### 2.iii Small Size Limitations
 
