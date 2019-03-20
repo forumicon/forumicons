@@ -13,3 +13,5 @@ All brand submissions must follow the guidelines for that brand. Unlike other ca
 Exp: https://en.facebookbrand.com/#brand-guidelines-assets
 
 We also require a seperate object property be added to the JSON file which will contain the color for the brand. `color: #29487d`
+
+##### Note: All brand icons are trademarks of their respective owners. The use of these trademarks does not indicate endorsement of the trademark holder by the author, nor vice versa.
