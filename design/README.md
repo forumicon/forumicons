@@ -17,6 +17,8 @@
 
 We follow the Google Material Design principles and as such find the 8px grid to be extremely versatile and idealy suited for working with web graphics, specificaly icons. You can find a setup guide for your application under the templates folder.
 
+<span class="btn-danger">test</span>
+
 ### 2.0
 
 We have several different category types for the icons we support. Each of which can be seen below. Because each of these has a different use they each have unique requirments specifc just to them. One of these is a different size requirment. To ensure proper icon placment it is a standard convention to include an empty filled, transparent background the full size of the template. This should be removed from the final exported svg icon code. 
@@ -30,18 +32,18 @@ For example if you are designing to a 24px size it will ensure your icon is at t
 #### 2.1 Icon Types
 | Icon Type  | Naming Convention | Exp |
 | ------------- | ------------- | ------------- |
-| Icon  | *n/a* | `fi-user-shield-check-outline-set1` |
-| Imageset  | s  | `fi-s-forum-outline-set1`|
-| Forum Image  | i  | `fi-i-support-color-set1` |
-| Brand Icon  | b  | `fi-b-facebook-solid-set1` |
-| Rank Image  | r  | `fi-r-admin-twotone-set1` |
-| Emoji  | e  | `fi-e-poo-color-set1` |
+| Icon  | *n/a* | `user-shield-check-outline-set1` |
+| Imageset  | s  | `s-forum-outline-set1`|
+| Forum Image  | i  | `i-support-color-set1` |
+| Brand Icon  | b  | `b-facebook-solid-set1` |
+| Rank Image  | r  | `r-admin-twotone-set1` |
+| Emoji  | e  | `e-poo-color-set1` |
 
 #### 2.2 Naming Convetion Scheme
 
-| Project | Icon Type(Categorie) | Icon Name | Icon Theme | Icon Set |
-|---------|----------------------|------------------------|------------|----------|
-| fi | `n/a` `i` `b` `r` `e` | user-shield-check | `solid` `outline` `twotone` `color` `etc...` | custom name for set of icons given by artist |
+| Icon Type(Categorie) | Icon Name | Icon Theme | Icon Set |
+|----------------------|------------------------|------------|----------|
+| `n/a` `i` `b` `r` `e` | user-shield-check | `solid` `outline` `twotone` `color` `etc...` | custom name for set of icons given by artist |
 
 ### 3.0
 
