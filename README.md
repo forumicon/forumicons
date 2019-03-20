@@ -38,23 +38,51 @@ home-variant-outline
 ##### _Forumicon Nameing Conventions_:
 
 ```javascript
-type-Icon-Name-theme-set
+Icon-Name-theme-size-set
 ```
 
 ###### So For example you colud have: 
 
 ```css
 home-color-spify
+home-color-lg-spify
 home-solid-spify
 home-outline-spify
 home-twotone-spify
-s-home-solid-exl
-b-discord-outline-exl
-r-admin-outline-army
-e-house-color-twemoji
+home-solid-exl
+discord-outline-exl
+admin-outline-army
+house-color-twemoji
 ```
 
-> Check the [Guidlines](https://github.com/forumicon/forumicons/blob/master/design/README.md) for more inof on the naming conventions 
+###### Icon Categories
+
+You may have a whole set of shield icons with different themes and sizes. You may even have an emoji version.
+
+```css
+shield-check-outline-shieldy
+shield-check-solid-shieldy
+shield-check-twotone-shieldy
+shield-check-color-shieldy
+shield-check-color-lg-shieldy
+shield-check-color-shieldy <- emoji
+shield-check-color-lg-shieldy <- emoji
+```
+
+How do we handle these then given the naming convention above?
+
+Categories are handled via a prefix. The repo has a prefix of `fi` is the global prefix for the repo. The following are the prefixes for the categories.
+
+| Icon Type  | Prefix | Exp |
+| ------------- | ------------- | ------------- |
+| Icon  | `fi-` | `fi-shield-check-color-shieldy` |
+| Imageset  | `fi-s-`  | `fi-s-shield-check-color-shieldy`|
+| Forum Image  | `fi-i-`  | `fi-i-shield-check-color-shieldy` |
+| Brand Icon  | `fi-b-`  | `fi-b-shield-check-color-shieldy` |
+| Rank Image  | `fi-r-`  | `fi-r-shield-check-color-shieldy` |
+| Emoji  | `fi-e-`  | `fi-e-shield-check-color-shieldy` |
+
+> Check the [Guidlines](https://github.com/forumicon/forumicons/blob/master/design/README.md) for more info on the naming conventions 
 
 ##### Each has a different license and attribution requirments. 
 ###### We have none!
