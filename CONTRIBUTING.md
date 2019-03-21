@@ -13,7 +13,6 @@ Its very easy to become a **Designer**. All you need to do is
 From then on repeat step #2 as often as you wish! Also many PRs can exsist and may be merged per request. As stated in the Offical [ReadMe](https://github.com/forumicon/forumicons/blob/master/README.md). We welcome several different variations. Keep all designs unique enough from each other and there will be no issue merging them.
 
 > **NOTE:** The **Designer team** while not nessecarily a team is lead/liased by the **Design Team Leader**. This is a **Development Team member** role. This individual is in charge of  the **Designer team**. They will ensure everything with the Design team is running smooth.They are responsible for ensuring that all the [Design Templates](https://github.com/forumicon/forumicons/tree/master/templates), [Design Guidlines](https://github.com/forumicon/forumicons/tree/master/design) are up to date. They also approve designers to the team along with the other **Development Team members**.
-```
 
 ## ![Reviewers](https://api.iconify.design/mdi-clipboard-check.svg?color=%23ef5350&height=20) Reviewers
 
