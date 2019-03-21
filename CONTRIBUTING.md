@@ -1,5 +1,5 @@
 ## ![Requestors](https://api.iconify.design/mdi-account-circle.svg?color=%23ba68c8&height=20) Requestors
-To request an icon simply create an [Icon Request](https://github.com/forumicon/forumicons/issues/new?assignees=&labels=ICON+Request&template=---icon-request.md&title=%5BICON+REQUEST%5D+) issue and follow the guidlines within the issue template. Also upvotes are most welcome!!! These help our designers find the most sought after designs.
+Requesting an icon is easy. Create an [Icon Request](https://github.com/forumicon/forumicons/issues/new?assignees=&labels=ICON+Request&template=---icon-request.md&title=%5BICON+REQUEST%5D+) issue and follow the guidlines within the issue template. Also upvotes are most welcome!!! These help our designers find the most sought after designs.
 
 ## ![Designers](https://api.iconify.design/mdi-check-decagram.svg?color=%2342a5f5&height=20) Designers
 Its very easy to become a **Designer**. All you need to do is
