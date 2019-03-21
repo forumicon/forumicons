@@ -13,7 +13,7 @@ Using the icons could not be simpiler. All of our icons are added to the [Iconif
 
 ### What is the process for getting custom icons?
 1. Create an [Icon Request](https://github.com/forumicon/forumicons/issues/new?assignees=&labels=ICON+Request&template=---icon-request.md&title=%5BICON+REQUEST%5D+) issue.
-2. Designer creates a Icon Pull Request
+2. Designer creates an Icon Pull Request
 3. Reviewer Approves Icon and Merges Pull Request
 4. Check the [FourmiCon](https://www.fourmicon.com) site for the name of your icon/s and follow the guide to adding to your project directly or via [Iconify](https://iconify.design/).
 
