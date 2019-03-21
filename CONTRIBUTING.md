@@ -12,7 +12,8 @@ Its very easy to become a **Designer**. All you need to do is
 
 From then on repeat step #2 as often as you wish! Also many PRs can exsist and may be merged per request. As stated in the Offical [ReadMe](https://github.com/forumicon/forumicons/blob/master/README.md). We welcome several different variations. Keep all designs unique enough from each other and there will be no issue merging them.
 
-> NOTE: The **Designer team** while not nessecarily a team is lead/liased by the **Design Team Leader**. This is a **Development Team member** role. This individual is in charge of  the **Designer team**. They will ensure everything with the Design team is running smooth.      They are responsible for ensuring that all the [Design Templates](https://github.com/forumicon/forumicons/tree/master/templates), [Design Guidlines](https://github.com/forumicon/forumicons/tree/master/design) are properly updated as well as approving designers to the team along with the other **Development Team** members.
+> **NOTE:** The **Designer team** while not nessecarily a team is lead/liased by the **Design Team Leader**. This is a **Development Team member** role. This individual is in charge of  the **Designer team**. They will ensure everything with the Design team is running smooth.They are responsible for ensuring that all the [Design Templates](https://github.com/forumicon/forumicons/tree/master/templates), [Design Guidlines](https://github.com/forumicon/forumicons/tree/master/design) are up to date. They also approve designers to the team along with the other **Development Team members**.
+```
 
 ## ![Reviewers](https://api.iconify.design/mdi-clipboard-check.svg?color=%23ef5350&height=20) Reviewers
 
@@ -24,13 +25,13 @@ Every pull request has a reviewer checklist to follow. Offical **Reviewers** che
 
 To join the **Reviewer team**, show a desire by reviewing submissions. An team member can then nominate you to the team after 5 successfuly submissions.
 
-> NOTE: This is somewhat subjective, but ensure that 5 icons can are merged without any requested changes by a **Reviewer**. Its not an exact number just a guideline.
+> **NOTE:** This is somewhat subjective, but ensure that 5 icons can are merged without any requested changes by a **Reviewer**. Its not an exact number just a guideline.
 
 Votes will be cast for all Nominees, and if the majority is in favour the **Reviewer Team Leader** will add you to the team. If not your will recieve feedback on why and how to remedy an issues preventing your acceptance.
 
-> NOTE: NOTE: The number of reviewers is something that is related to the ammount of submissions. The **Reviewer team** will mandate how many team members are required at any given time.
+> **NOTE:** The number of reviewers is something that is related to the ammount of submissions. The **Reviewer team** will mandate how many team members are required at any given time.
 
-> NOTE: The **Reviewer Team** is lead by the **Reviewer Team Leader**. This is a **Development Team member** role.  This individual is in charge of the **Reviewer Team**. They are maintain all the documentation, checklists, and guidlines. They also are the final approver for any and all nominations to the **Reviewer Team**.
+> **NOTE:** The **Reviewer Team** is lead by the **Reviewer Team Leader**. This is a **Development Team member** role.  This individual is in charge of the **Reviewer Team**. They are maintain all the documentation, checklists, and guidlines. They also are the final approver for any and all nominations to the **Reviewer Team**.
 
 ## ![Developers](https://api.iconify.design/mdi-shield-check.svg?color=%2326a69a&height=20) Developers
 
