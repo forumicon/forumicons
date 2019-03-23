@@ -60,11 +60,11 @@ With that being said different sizes of the icons can be submitted for larger si
 
 While we prefer to use sketch to design all of our icons, we understnad that not everyone has access to use sketch or may prefer a different tool. To this end we try to maintian templates for all the popular tools out there. You can find more info in the Readme in the templates folder.
 
-Each icon will be developed using one of the templates provided and saved in a state ready to export. The filename should be the same as the final name for the icon as well as the containing folder in the file itself
+Each icon will be developed using one of the templates provided and saved in a state ready to export. The filename should be the same as the final name for the icon as well as the containing layer in the file itself.
 
 #### 3.i Icon Sets
 
-The exception to the rule is if you are providing a new set of icons. To facilitate this its far easier to maintain a single file which can easily export all the icons. The naming of each icons folder in the file must match each icons final filename. However the name of the template file should follow the following convention `type-set`
+The exception to the rule is if you are providing a new set of icons. To facilitate this its far easier to maintain a single file which can easily export all the icons. The naming of each icons layer in the file must match each icons final filename. However the name of the template file should follow the following convention `type-set` exp: `color-prosilver`.
 
 ### 4. Sub Icons
 

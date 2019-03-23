@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+    <defs>
+        <linearGradient id="forum-read-locked-color-prosilver-a" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#DBDEE3"/>
+            <stop offset="100%" stop-color="#FDFDFD"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#196DB5" d="M46.5 24c0 12.426-10.073 22.5-22.5 22.5S1.5 36.426 1.5 24C1.5 11.573 11.573 1.5 24 1.5S46.5 11.573 46.5 24"/>
+        <path fill="#BAD3E8" d="M45 24c0 11.597-9.402 21-21 21S3 35.597 3 24C3 12.402 12.402 3 24 3s21 9.402 21 21"/>
+        <path fill="#FFF" d="M44.25 24c0 11.183-9.066 20.25-20.25 20.25S3.75 35.183 3.75 24C3.75 12.816 12.816 3.75 24 3.75S44.25 12.816 44.25 24"/>
+        <path fill="url(#forum-read-locked-color-prosilver-a)" d="M42.75 24c0 10.355-8.395 18.75-18.75 18.75S5.25 34.355 5.25 24 13.645 5.25 24 5.25 42.75 13.645 42.75 24"/>
+        <path fill="#666" d="M19.667 28.364v-2.182h8.666v2.182h-8.666zm0 4.363v-2.182h8.666v2.182h-8.666zm1.083-16.363h6.5v6.545h-6.5v-6.545zm10.833 6.545v-6.551A4.353 4.353 0 0 0 27.238 12h-6.474a4.334 4.334 0 0 0-4.345 4.358v6.551H14.25V36h19.5V22.91h-2.167z"/>
+    </g>
+</svg>
