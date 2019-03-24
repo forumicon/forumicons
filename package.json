@@ -1,0 +1,55 @@
+{
+	"name": "forumicons",
+	"version": "1.0.0",
+	"description": "Description ",
+	"main": "index.js",
+	"directories": {
+		"doc": "docs",
+		"lib": "lib"
+	},
+	"xo": {
+		"rules": {
+			"quotes": ["error", "single"],
+			"comma-dangle": ["error", "always"],
+			"block-spacing": "error",
+			"array-bracket-spacing": ["error", "always"],
+			"multiline-comment-style": ["error", "starred-block"],
+			"computed-property-spacing": "off",
+			"space-in-parens": "off",
+			"capitalized-comments": "off"
+		},
+		"env": {
+			"es6": true,
+			"browser": true,
+			"node": true,
+			"jquery": true
+		}
+	},
+	"scripts": {
+		"test": "xo'"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/forumicon/forumicons.git"
+	},
+	"keywords": [
+		"icons"
+	],
+	"author": "imagesets",
+	"license": "Unlicense",
+	"bugs": {
+		"url": "https://github.com/forumicon/forumicons/issues"
+	},
+	"homepage": "https://github.com/forumicon/forumicons#readme",
+	"dependencies": {
+		"gulp": "4.0.0",
+		"gulp-changed": "3.2.0",
+		"gulp-cheerio": "0.6.3"
+	},
+	"devDependencies": {
+		"xo": "0.24.0"
+	}
+}
