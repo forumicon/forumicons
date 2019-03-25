@@ -19,7 +19,7 @@ We follow the Google Material Design principles and as such find the 8px grid to
 
 ### 2. Icon Sizing
 
-Each `iconType` will have a size requirment For Exp: `icon: 24px`. We have several different category types for the icons we support. Each of which can be seen in section 2.1. Because each of these has a different use they each have unique requirments specifc just for them. For more intricate and advanced icons 24px may be too small. Check the Readme in each iocnType folder for specific guidlines for that type.
+Each `iconType` will have a size requirment For Exp: `icon: 24px`. We have several different category types for the icons we support. Each of which can be seen in section 2.1. Because each of these has a different use they each have unique requirments specifc just for them. For more intricate and advanced icons 24px may be too small. Check the Readme in each **designs/designs/iocnType** folder for specific guidlines for that type.
 
 To ensure proper icon placment it is a standard convention to include an empty fill, transparent background block the full size of the template. This should be removed from the final exported svg icon code prior to submitting for final review.
 
