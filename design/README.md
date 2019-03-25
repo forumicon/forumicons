@@ -48,9 +48,9 @@ fi-b-Icon-Name-theme-size-set
 
 #### 2.iii Small Size Limitations
 
-Because of the smaller sizes most icons are meant to be used at each icon should be built to a range. This means that if the design is at 24px all elements should look and fucntion at the correctsize and spacing at that size. It should also work at double the size and half the size as well. For example a stroke or outline should look the same or relatively the same at half and double the size of the icon.
+Because of the smaller sizes most icons are meant to be used at, each icon should be built to a range. This means that if the design is at 24px all elements should look and fucntion given the sizing and spacing at 24px. It should also work at double the size and half the size as well. For example a stroke or outline should look the same or relatively the same at half and double the size of the icon.
 
-With that being said different sizes of the icons can be submitted for larger sized versions if needed. If the icon is meant to be rendred or used in a situation where it may be larger than double the original size. We sugest producing a larer scale version as well. to handle naming concerns for this we append a notional size on the end of the file name scheme. so to use the icon via iconify you would name it `thumbs-up-color-lg` where `-lg` is the tag added to signify a large scale version. then it could be used by iconify by using `fi-e-thumbs-up-color-lg`
+With that being said different sizes of the icons can be submitted for larger sized versions if needed. If the icon is meant to be rendred or used in a situation where it may be larger than double the original size. We sugest producing a larer scale version as well. to handle naming concerns for this we append a notional size on the end of the file name scheme. To use the icon via iconify you would name it `thumbs-up-color-lg` where `-lg` is the tag added to signify a large scale version. then it could be used by iconify by using `fi-e-thumbs-up-color-lg`
 
 ### 3. Templates
 
@@ -64,7 +64,7 @@ The exception to the rule is if you are providing a new set of icons. To facilit
 
 ### 4. Sub Icons
 
-To facilitate better quality across icons as it is common practice to have sub icons, the use of a standard size for all of them will be used in the set. We reccommend using **8px** but that is **not** a requirment. The only requirment is that it be **no less** than **2px** and be **evenly divisable** by **2px**.
+To facilitate better quality across icons as it is common practice to have sub icons, the use of a standard size for all of them will be used in the set. We reccommend using **even numbers** but that is **not** a requirment. The only requirment is that it be **no less** than **1.5px**.
 
 #### 4.i Decending and Ascending
 
