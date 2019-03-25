@@ -21,13 +21,9 @@ We follow the Google Material Design principles and as such find the 8px grid to
 
 Each `iconType` will have a size requirment For Exp: `icon: 24px`. We have several different category types for the icons we support. Each of which can be seen in section 2.1. Because each of these has a different use they each have unique requirments specifc just for them. For more intricate and advanced icons 24px may be too small. Check the Readme in each **designs/designs/iocnType** folder for specific guidlines for that type.
 
-To ensure proper icon placment it is a standard convention to include an empty fill, transparent background block the full size of the template. This should be removed from the final exported svg icon code prior to submitting for final review.
+To ensure proper icon placment each tool has specific workflows that will need to be followed. These ensure that all the icons are centered in the provided space. In other words if your icon is 20x18 px and the tempalte is 24x24 px then the icon shoudl be centered to the canvas and rendered out at 24x24 px. This ensures the icons is centered when rendered in the browser which is the desired normal implimentation of an icon. All of the templates by default are constructed with this in mind and there are detailed instructions provided for each to ensure you are creting them properly. Tests are automatically checking for this in the final svg pull request. At times however, for a set of icons, it may be easier for all of them to be created in the same tmeplate. Make sure to duplicate things correctly by following the provided instructions for your template/application when adding a new icon to ensure that it is properly created to the canvas and exports properly at the canvas dimensions and not the design dimensions.
 
-All of the templates include this layer by default for you and we have tests that will automatically check for it in the final svg pull request. The acception here is the template for sets. By default it only contains 9 icons in a grid. Make sure to duplicate the entire folder when adding a new icon to ensure that this transparent layer is present.
-
-> NOTE: you can tell that its not present if the svg width and height do not match the required size. For Exp: `width="24px" height="24px"` for a standard icon.
-
-For example if you are designing to a 24px size it will ensure your icon is at the center of block with `24x24` pixel dimensions in the browser.
+> NOTE: you can tell that its not if the svg width and height do not match the required dimensions. For Exp: `width="24px" height="24px"` for a standard icon.
 
 #### 2.i Icon Types
 | Icon Type  | Prefix | Exp |
