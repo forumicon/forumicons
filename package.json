@@ -9,22 +9,48 @@
 	},
 	"xo": {
 		"rules": {
-			"quotes": ["error", "single"],
-			"comma-dangle": ["error", "always"],
+			"quotes": [
+				"error",
+				"single"
+			],
+			"comma-dangle": [
+				"error",
+				"always-multiline"
+			],
 			"block-spacing": "error",
-			"array-bracket-spacing": ["error", "always"],
-			"multiline-comment-style": ["error", "starred-block"],
+			"array-bracket-spacing": [
+				"error",
+				"always"
+			],
+			"multiline-comment-style": "off",
 			"computed-property-spacing": "off",
 			"space-in-parens": "off",
-			"capitalized-comments": "off"
+			"capitalized-comments": "off",
+			"object-curly-spacing": [
+				"error",
+				"always"
+			],
+			"no-lonely-if": "off"
 		},
-		"env": {
-			"es6": true,
-			"browser": true,
-			"node": true,
-			"jquery": true
-		}
+		"env": [
+			"es6",
+			"browser",
+			"node",
+			"jquery"
+		]
 	},
+	"browserslist": [
+		"> 1%",
+		"not ie 11",
+		"not samsung 10.1",
+		"not and_uc 12.12",
+		"not op_mini all",
+		"edge >= 18",
+		"ff >= 72",
+		"chrome >= 79",
+		"safari >= 13",
+		"ios >= 12.4"
+	],
 	"scripts": {
 		"test": "xo'"
 	},
@@ -48,6 +74,6 @@
 		
 	},
 	"devDependencies": {
-		"xo": "0.24.0"
+		"xo": "0.29.0"
 	}
 }
