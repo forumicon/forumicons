@@ -76,12 +76,12 @@ Categories are prefixes. The repo has a prefix of fi is the global prefix for th
 
 | Icon Type  | Prefix | Exp |
 | ------------- | ------------- | ------------- |
-| Icon  | `fi-` | `fi-shield-check-color-shieldy` |
-| Imageset  | `fi-s-`  | `fi-s-shield-check-color-shieldy`|
-| Forum Image  | `fi-i-`  | `fi-i-shield-check-color-shieldy` |
-| Brand Icon  | `fi-b-`  | `fi-b-shield-check-color-shieldy` |
-| Rank Image  | `fi-r-`  | `fi-r-shield-check-color-shieldy` |
-| Emoji  | `fi-e-`  | `fi-e-shield-check-color-shieldy` |
+| Icon  | `fi` | `fi:shield-check-color-shieldy` |
+| Imageset  | `fi-s`  | `fi-s:shield-check-color-shieldy`|
+| Forum Image  | `fi-i`  | `fi-i:shield-check-color-shieldy` |
+| Brand Icon  | `fi-b`  | `fi-b:shield-check-color-shieldy` |
+| Rank Image  | `fi-r`  | `fi-r:shield-check-color-shieldy` |
+| Emoji  | `fi-e`  | `fi-e:shield-check-color-shieldy` |
 
 > Check the [Guidlines](https://github.com/forumicon/forumicons/blob/master/design/README.md) for more info on the naming conventions 
 
