@@ -21,19 +21,19 @@ We follow the Google Material Design principles and as such find the 8px grid to
 
 Each `iconType` will have a size requirment For Exp: `icon: 24px`. We have several different category types for the icons we support. Each of which can be seen in section 2.1. Because each of these has a different use they each have unique requirments specifc just for them. For more intricate and advanced icons 24px may be too small. Check the Readme in each **designs/designs/iocnType** folder for specific guidlines for that type.
 
-To ensure proper icon placment each tool has specific workflows that will need to be followed. These ensure that all the icons are centered in the provided space. In other words if your icon is 20x18 px and the tempalte is 24x24 px then the icon shoudl be centered to the canvas and rendered out at 24x24 px. This ensures the icons is centered when rendered in the browser which is the desired normal implimentation of an icon. All of the templates by default are constructed with this in mind and there are detailed instructions provided for each to ensure you are creting them properly. Tests are automatically checking for this in the final svg pull request. At times however, for a set of icons, it may be easier for all of them to be created in the same tmeplate. Make sure to duplicate things correctly by following the provided instructions for your template/application when adding a new icon to ensure that it is properly created to the canvas and exports properly at the canvas dimensions and not the design dimensions.
+To ensure proper icon placment each tool has specific workflows that will need to be followed. These ensure that all the icons are centered in the provided space. In other words if your icon is 20x18 px and the tempalte is 24x24 px then the icon should be centered to the canvas and rendered out at 24x24 px. This ensures the icons are centered when rendered in the browser which is the desired normal implimentation of an icon. All of the templates by default are constructed with this in mind and there are detailed instructions provided for each to ensure you are creating them properly. Tests are automatically checking for this in the final svg pull request. At times however, for a set of icons, it may be easier for all of them to be created in the same tmeplate. Make sure to duplicate things correctly by following the provided instructions for your template/application when adding a new icon to ensure that it is properly created to the canvas and exports properly at the canvas dimensions and not the design dimensions.
 
 > NOTE: you can tell that its not if the svg width and height do not match the required dimensions. For Exp: `width="24px" height="24px"` for a standard icon.
 
 #### 2.i Icon Types
 | Icon Type  | Prefix | Exp |
 | ------------- | ------------- | ------------- |
-| Icon  | `fi-` | `fi-shield-check-color-shieldy` |
-| Imageset  | `fi-s-`  | `fi-s-shield-check-color-shieldy`|
-| Forum Image  | `fi-i-`  | `fi-i-shield-check-color-shieldy` |
-| Brand Icon  | `fi-b-`  | `fi-b-shield-check-color-shieldy` |
-| Rank Image  | `fi-r-`  | `fi-r-shield-check-color-shieldy` |
-| Emoji  | `fi-e-`  | `fi-e-shield-check-color-shieldy` |
+| Icon  | `fi` | `fi:shield-check-color-shieldy` |
+| Imageset  | `fi-s`  | `fi-s:shield-check-color-shieldy`|
+| Forum Image  | `fi-i`  | `fi-i:shield-check-color-shieldy` |
+| Brand Icon  | `fi-b`  | `fi-b:shield-check-color-shieldy` |
+| Rank Image  | `fi-r`  | `fi-r:shield-check-color-shieldy` |
+| Emoji  | `fi--`  | `fi-e:shield-check-color-shieldy` |
 
 #### 2.ii Naming Convention Scheme
 
@@ -43,7 +43,7 @@ To ensure proper icon placment each tool has specific workflows that will need t
 
 Exp:
 ```javascript
-fi-b-Icon-Name-theme-size-set
+fi-b:Icon-Name-theme-size-set
 ```
 
 #### 2.iii Small Size Limitations
