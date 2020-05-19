@@ -33,7 +33,7 @@ To ensure proper icon placment each tool has specific workflows that will need t
 | Forum Image  | `fi-i`  | `fi-i:shield-check-color-shieldy` |
 | Brand Icon  | `fi-b`  | `fi-b:shield-check-color-shieldy` |
 | Rank Image  | `fi-r`  | `fi-r:shield-check-color-shieldy` |
-| Emoji  | `fi--`  | `fi-e:shield-check-color-shieldy` |
+| Emoji  | `fi-e`  | `fi-e:shield-check-color-shieldy` |
 
 #### 2.ii Naming Convention Scheme
 
